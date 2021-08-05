@@ -6,13 +6,17 @@
     "start": "next start"
   },
   "dependencies": {
+    "@heroicons/react": "^1.0.3",
     "next": "latest",
+    "postcss-preset-env": "^6.7.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "tailwind-scrollbar-hide": "^1.0.3",
+    "tailwindcss-classnames": "^2.2.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
     "postcss": "^8.3.5",
-    "tailwindcss": "^2.2.4"
+    "tailwindcss": "^2.2.7"
   }
 }

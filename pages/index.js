@@ -13,7 +13,7 @@ export default function Home({ exploreData, cardseData }) {
         <title>Airbnb</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Header />
+      <Header/>
       <Banner />
       <main className="max-w-6xl mx-auto px-8 sm:px-16">
         <section className="pt-6">
